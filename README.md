@@ -1,0 +1,2 @@
+# NetCorePractice
+NetCorePractice
